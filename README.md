@@ -20,7 +20,7 @@ Step 1: You need to download this from github link.
 Step 2: Open it in your eclipse or vs-code or in suitable IDE.
 Step 3: Now configure a database according to your database in application.properties  file.
 Step 4: Run Application as Spring-boot application.
-Step 5: Go to Postman API development tool paste this link http://localhost:8080/api/cars and make the request according to you. And test the application.
+Step 5: Go to Postman API development tool paste this link in any browser http://localhost:8080/api/cars and make the request according to you. And test the application.
 
 4. For end points of APIs go through the file CarManagementSystem API.postman_collection
 5. API Documentation: This file is created with Postman Collections document.
